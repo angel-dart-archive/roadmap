@@ -3,6 +3,8 @@
 ![next planned version: v1.0.0-beta](https://img.shields.io/badge/next%20release-v1.0.0--beta-blue.svg)
 [![build status](https://travis-ci.org/angel-dart/roadmap.svg)](https://travis-ci.org/angel-dart/roadmap)
 
+[Roadmap](https://github.com/angel-dart/roadmap/blob/master/ROADMAP.md)
+
 *The above badge will turn green once all planned features are implemented.*
 
 There are a few server-side frameworks rising within Dart at this moment, but Angel has a different goal than all the rest.
