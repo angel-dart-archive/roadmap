@@ -1,7 +1,9 @@
 # Roadmap
 
 * 1.0.0-beta
-  * [ ] Resolve all outstanding issues filed by myself in `framework` and `route`
+  * [ ] Resolve all outstanding issues filed by myself in:
+    * [ ] `framework`
+    * [ ] `route`
   * [ ] Ensure these plugins work:
     * [ ] `auth`
     * [x] `auth_google`
