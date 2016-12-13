@@ -3,6 +3,6 @@ import 'package:test/test.dart';
 
 main() {
   test('13 core plugins pass', () {
-    expect(true, equals(false));
+    await ensureAllPluginPass(CORE_PLUGINS);
   });
 }
