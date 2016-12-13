@@ -49,7 +49,7 @@ Future ensureAllReposPass(List<AngelRepo> repos) async {
 }
 
 Future ensureRepoPasses(AngelRepo repo) async {
-  final reponse = await client.repos(member: 'angel-dart');
+  final reponse = await client.repos(member: 'thosakwe');
   
   for (Repo r in response) {
     if (r.slug == 'angel-dart/${repo.name}') {
