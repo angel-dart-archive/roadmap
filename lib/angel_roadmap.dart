@@ -11,10 +11,13 @@ const AngelRepo CLIENT = const AngelRepo(name: 'client');
 const AngelRepo COMPRESS = const AngelRepo(name: 'compress');
 const AngelRepo CONFIGURATION = const AngelRepo(name: 'configuration');
 const AngelRepo CORS = const AngelRepo(name: 'cors');
+const AngelRepo DIAGNOSTICS = const AngelRepo(name: 'diagnostics');
 const AngelRepo ERRORS = const AngelRepo(name: 'errors');
+const AngelRepo FRAMEWORK = const AngelRepo(name: 'framework');
 const AngelRepo MONGO = const AngelRepo(name: 'mongo');
 const AngelRepo MUSTACHE = const AngelRepo(name: 'mustache');
 const AngelRepo PROXY = const AngelRepo(name: 'proxy');
+const AngelRepo ROUTE = const AngelRepo(name: 'route');
 const AngelRepo STATIC = const AngelRepo(name: 'static');
 const AngelRepo TEST = const AngelRepo(name: 'test');
 
@@ -31,6 +34,8 @@ const List<AngelRepo> BETA_PLUGINS = const [
   STATIC,
   TEST
 ];
+
+const List<AngelRepo> CORE_API = const [FRAMEWORK, ROUTE];
 
 class AngelRepo {
   final String name;
