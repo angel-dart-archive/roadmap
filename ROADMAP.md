@@ -15,7 +15,7 @@
     * [x] `static`
     * [x] `test`
   * [ ] Finish corresponding documentation
-   * [ ] Especially the docs for `test`
+    * [ ] Especially the docs for `test`
 
 * 1.0.0
   * [ ] Finish the following plugins:
