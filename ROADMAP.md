@@ -3,7 +3,7 @@
 * 1.0.0-beta
   * Resolve all outstanding issues filed by myself in `framework` and `route`
   * Ensure these plugins work:
-    * [x] `auth`
+    * [ ] `auth`
     * [x] `auth_google`
     * [ ] `client`
     * [x] `configuration`
