@@ -1,8 +1,8 @@
 # Roadmap
 
 * 1.0.0-beta
-  * Resolve all outstanding issues filed by myself in `framework` and `route`
-  * Ensure these plugins work:
+  * [ ] Resolve all outstanding issues filed by myself in `framework` and `route`
+  * [ ] Ensure these plugins work:
     * [ ] `auth`
     * [x] `auth_google`
     * [ ] `client`
@@ -14,10 +14,10 @@
     * [x] `proxy`
     * [x] `static`
     * [x] `test`
-  * Finishing corresponding documentation
+  * [ ] Finish corresponding documentation
 
 * 1.0.0
-  * Finish the following plugins:
+  * [ ] Finish the following plugins:
     * [ ] `auth_twitter`
     * [ ] `compress`
     * [ ] `multiserver`
@@ -27,9 +27,10 @@
     * [ ] `trestle`
     * [ ] `user_agent`
     * [ ] `websocket`
-  * Finish remaining documentation
-  * Create `common`
-  * Finalize CLI
+  * [ ] Finish remaining documentation
+  * [ ] Create `common`
+  * [ ] Finalize CLI
+  * [ ] Swagger codegen
   
 * Future
   * ***Potentially*** base Angel off of shelf
