@@ -2,8 +2,7 @@ import 'dart:async';
 import 'package:test/test.dart';
 import 'package:travis/travis.dart';
 /// This is my Travis token. I trust you if you're reading this.
-const String _TOKEN = 'h5BvPpMsfo9qGASWWEqN';
-final client = new Travis(token: _TOKEN);
+final client = new Travis('h5BvPpMsfo9qGASWWEqN');
 
 const AngelRepo AUTH = const AngelRepo(name: 'auth');
 const AngelRepo AUTH_GOOGLE = const AngelRepo(name: 'auth_google');
