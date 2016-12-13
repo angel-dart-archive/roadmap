@@ -1,0 +1,5 @@
+name: angel_roadmap
+publish_to: none
+dependencies:
+  test: ^0.12.15
+  travis: ^0.0.1-dev
