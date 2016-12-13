@@ -5,7 +5,6 @@
   * Ensure these plugins work:
     * `auth`
     * `auth_google`
-    * `auth_google`
     * `client`
     * `configuration`
     * `cors`
@@ -18,8 +17,19 @@
   * Finishing corresponding documentation
 
 * 1.0.0
-  * Finish the following plugins
+  * Finish the following plugins:
+    * `auth_twitter`
+    * `compress`
+    * `multiserver`
+    * `seeder`
+    * `shelf`
+    * `sqljocky`
+    * `trestle`
+    * `user_agent`
+    * `websocket`
   * Finish remaining documentation
+  * Create `common`
+  * Finalize CLI
   
 * Future
   * ***Potentially*** base Angel off of shelf
