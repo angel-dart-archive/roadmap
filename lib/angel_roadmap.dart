@@ -5,8 +5,32 @@ import 'package:travis/travis.dart';
 const String _TOKEN = 'h5BvPpMsfo9qGASWWEqN';
 final client = new Travis(token: _TOKEN);
 
+const AngelRepo AUTH = const AngelRepo(name: 'auth');
+const AngelRepo AUTH_GOOGLE = const AngelRepo(name: 'auth_google');
+const AngelRepo CLIENT = const AngelRepo(name: 'client');
+const AngelRepo COMPRESS = const AngelRepo(name: 'compress');
+const AngelRepo CONFIGURATION = const AngelRepo(name: 'configuration');
+const AngelRepo CORS = const AngelRepo(name: 'cors');
+const AngelRepo ERRORS = const AngelRepo(name: 'errors');
+const AngelRepo MONGO = const AngelRepo(name: 'mongo');
 const AngelRepo MUSTACHE = const AngelRepo(name: 'mustache');
-const List<AngelRepo> CORE_PLUGINS = const [MUSTACHE];
+const AngelRepo PROXY = const AngelRepo(name: 'proxy');
+const AngelRepo STATIC = const AngelRepo(name: 'static');
+const AngelRepo TEST = const AngelRepo(name: 'test');
+
+const List<AngelRepo> BETA_PLUGINS = const [
+  AUTH,
+  AUTH_GOOGLE,
+  CLIENT,
+  CONFIGURATION,
+  CORS,
+  ERRORS,
+  MONGO,
+  MUSTACHE,
+  PROXY,
+  STATIC,
+  TEST
+];
 
 class AngelRepo {
   final String name;
