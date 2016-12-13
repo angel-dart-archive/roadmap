@@ -17,5 +17,3 @@ new functionality is added via plug-ins.
 The final goal of Angel is *scalability*. As your application grows, Angel aims to continue working, with little or no change in
 server-side configuration.
 
-This repository will contain a brief roadmap of the features planned for `v1.0.0-beta`.
-
