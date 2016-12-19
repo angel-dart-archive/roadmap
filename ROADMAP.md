@@ -5,7 +5,7 @@
     * [x] `framework`
     * [x] `route`
   * [ ] Ensure these plugins work:
-    * [ ] `auth`
+    * [x] `auth`
     * [x] `auth_google`
     * [ ] `client`
     * [x] `configuration`
@@ -21,6 +21,7 @@
     * [ ] Especially the docs for `test`
 
 * 1.0.0-beta
+  * [ ] `auth` hooks
   * [ ] Finish the following plugins:
     * [ ] `compress`
     * [ ] `multiserver`
