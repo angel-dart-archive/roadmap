@@ -1,6 +1,6 @@
 # Roadmap
 
-* 1.0.0-beta
+* 1.0.0-alpha
   * [ ] Resolve all outstanding issues filed by myself in:
     * [ ] `framework`
     * [ ] `route`
@@ -19,21 +19,23 @@
   * [ ] Finish corresponding documentation
     * [ ] Especially the docs for `test`
 
-* 1.0.0
+* 1.0.0-beta
   * [ ] Finish the following plugins:
-    * [ ] `auth_twitter`
     * [ ] `compress`
     * [ ] `multiserver`
     * [ ] `seeder`
     * [ ] `shelf`
     * [ ] `sqljocky`
-    * [ ] `trestle`
     * [ ] `user_agent`
     * [ ] `websocket`
   * [ ] Finish remaining documentation
   * [ ] Create `common`
+  
+* 1.0.0
   * [ ] Finalize CLI
   * [ ] Swagger codegen
   
 * Future
+  * [ ] `auth_twitter`
+  * [ ] `trestle`
   * ***Potentially*** base Angel off of shelf
