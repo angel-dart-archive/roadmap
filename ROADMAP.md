@@ -15,7 +15,7 @@
     * [x] `mustache`
     * [x] `proxy`
     * [x] `static`
-    * [x] `test`
+    * [ ] `test`
   * [ ] Finish corresponding documentation
     * [ ] Especially the docs for `test`
 
