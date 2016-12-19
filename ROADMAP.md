@@ -2,7 +2,7 @@
 
 * 1.0.0-alpha
   * [ ] Resolve all outstanding issues filed by myself in:
-    * [ ] `framework`
+    * [x] `framework`
     * [ ] `route`
   * [ ] Ensure these plugins work:
     * [ ] `auth`
