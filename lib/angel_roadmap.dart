@@ -20,7 +20,7 @@ const AngelRepo ROUTE = const AngelRepo(name: 'route');
 const AngelRepo STATIC = const AngelRepo(name: 'static');
 const AngelRepo TEST = const AngelRepo(name: 'test');
 
-const List<AngelRepo> BETA_PLUGINS = const [
+const List<AngelRepo> ALPHA_PLUGINS = const [
   AUTH,
   AUTH_GOOGLE,
   CLIENT,
