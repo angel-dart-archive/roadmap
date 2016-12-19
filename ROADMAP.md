@@ -16,6 +16,7 @@
     * [x] `proxy`
     * [x] `static`
     * [ ] `test`
+  * [ ] Remove all dependency on `io` in plugins, at least where possible
   * [ ] Finish corresponding documentation
     * [ ] Especially the docs for `test`
 
