@@ -30,6 +30,7 @@
     * [ ] `sqljocky`
     * [ ] `user_agent`
     * [ ] `websocket`
+  * [ ] Some way to restart server on file change
   * [ ] Finish remaining documentation
   * [ ] Create `common`
   
