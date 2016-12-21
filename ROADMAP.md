@@ -22,8 +22,8 @@
   * [x] Remove dependency on now-deprecated getters/setters/methods
   * [x] Finish corresponding documentation
     * [x] Especially the docs for `test`
-  * [ ] Create `common`
-    * [ ] Add it to boilerplate
+  * [x] Create `common`
+    * [x] Add it to boilerplate
 
 * 1.0.0-beta
   * [ ] `auth` hooks
