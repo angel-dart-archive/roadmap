@@ -7,7 +7,7 @@
   * [ ] Ensure these plugins work:
     * [x] `auth`
     * [x] `auth_google`
-    * [ ] `client`
+    * [x] `client` (still needs browser tests)
     * [x] `configuration`
     * [x] `cors`
     * [x] `errors`
@@ -22,6 +22,7 @@
 
 * 1.0.0-beta
   * [ ] `auth` hooks
+  * [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
     * [ ] `compress`
     * [ ] `multiserver`
