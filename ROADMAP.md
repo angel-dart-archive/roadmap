@@ -8,6 +8,7 @@
     * [x] `auth`
     * [x] `auth_google`
     * [x] `client` (still needs browser tests)
+    * [x] `compress`
     * [x] `configuration`
     * [x] `cors`
     * [x] `errors`
@@ -24,7 +25,6 @@
   * [ ] `auth` hooks
   * [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
-    * [ ] `compress`
     * [ ] `multiserver`
     * [ ] `seeder`
     * [ ] `shelf`
