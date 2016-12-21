@@ -22,6 +22,8 @@
   * [ ] Remove dependency on now-deprecated getters/setters/methods
   * [ ] Finish corresponding documentation
     * [ ] Especially the docs for `test`
+  * [ ] Create `common`
+    * [ ] Add it to boilerplate
 
 * 1.0.0-beta
   * [ ] `auth` hooks
@@ -36,7 +38,6 @@
     * [ ] `websocket`
   * [ ] Some way to restart server on file change
   * [ ] Finish remaining documentation
-  * [ ] Create `common`
   
 * 1.0.0
   * [ ] Finalize CLI
