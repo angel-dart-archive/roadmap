@@ -27,6 +27,7 @@
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
     * [ ] `multiserver`
+    * [ ] `rpc`
     * [ ] `seeder`
     * [ ] `shelf`
     * [ ] `sqljocky`
