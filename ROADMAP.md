@@ -20,8 +20,8 @@
     * [x] `test`
   * [x] Remove all dependency on `io` in plugins, at least where possible
   * [x] Remove dependency on now-deprecated getters/setters/methods
-  * [ ] Finish corresponding documentation
-    * [ ] Especially the docs for `test`
+  * [x] Finish corresponding documentation
+    * [x] Especially the docs for `test`
   * [ ] Create `common`
     * [ ] Add it to boilerplate
 
