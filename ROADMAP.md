@@ -24,7 +24,7 @@
 
 * 1.0.0-beta
   * [ ] `auth` hooks
-  * [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
+  * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
     * [ ] `multiserver`
     * [ ] `seeder`
