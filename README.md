@@ -1,6 +1,6 @@
 # The Angel Framework
 
-![next planned version: v1.0.0-alpha](https://img.shields.io/badge/next%20release-v1.0.0--alpha-blue.svg)
+[![version: v1.0.0-alpha](https://img.shields.io/badge/pub-v1.0.0--alpha-blue.svg)](https://pub.dartlang.org/packages/angel_common)
 [![build status](https://travis-ci.org/angel-dart/roadmap.svg)](https://travis-ci.org/angel-dart/roadmap)
 
 *The above badge will turn green once all planned features are implemented.*
