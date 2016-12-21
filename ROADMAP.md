@@ -17,8 +17,8 @@
     * [x] `proxy`
     * [x] `static`
     * [x] `test`
-  * [ ] Remove all dependency on `io` in plugins, at least where possible
-  * [ ] Remove dependency on deprecated getters/setters/methods
+  * [x] Remove all dependency on `io` in plugins, at least where possible
+  * [ ] Remove dependency on now-deprecated getters/setters/methods
   * [ ] Finish corresponding documentation
     * [ ] Especially the docs for `test`
 
