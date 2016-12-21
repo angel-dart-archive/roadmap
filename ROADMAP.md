@@ -1,7 +1,8 @@
 # Roadmap
 
 * 1.0.0-alpha
-  * [x] Resolve all outstanding issues filed by myself in:
+  * [ ] Resolve all outstanding issues filed by myself in:
+    * [ ] `angel`
     * [x] `framework`
     * [x] `route`
   * [x] Ensure these plugins work:
