@@ -1,8 +1,8 @@
 # Roadmap
 
 * 1.0.0-alpha
-  * [ ] Resolve all outstanding issues filed by myself in:
-    * [ ] `angel`
+  * [x] Resolve all outstanding issues filed by myself in:
+    * [x] `angel`
     * [x] `framework`
     * [x] `route`
   * [x] Ensure these plugins work:
@@ -19,7 +19,7 @@
     * [x] `static`
     * [x] `test`
   * [x] Remove all dependency on `io` in plugins, at least where possible
-  * [ ] Remove dependency on now-deprecated getters/setters/methods
+  * [x] Remove dependency on now-deprecated getters/setters/methods
   * [ ] Finish corresponding documentation
     * [ ] Especially the docs for `test`
   * [ ] Create `common`
