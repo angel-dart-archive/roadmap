@@ -43,5 +43,6 @@
   
 * Future
   * [ ] `auth_twitter`
+  * [ ] `throttle`
   * [ ] `trestle`
   * ***Potentially*** base Angel off of shelf
