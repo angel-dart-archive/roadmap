@@ -4,7 +4,7 @@
   * [x] Resolve all outstanding issues filed by myself in:
     * [x] `framework`
     * [x] `route`
-  * [ ] Ensure these plugins work:
+  * [x] Ensure these plugins work:
     * [x] `auth`
     * [x] `auth_google`
     * [x] `client` (still needs browser tests)
