@@ -36,7 +36,7 @@
     * [ ] `sqljocky`
     * [ ] `user_agent`
     * [ ] `websocket` (just need more tests)
-  * [ ] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
+  * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [ ] Finish remaining documentation
   
 * 1.0.0
