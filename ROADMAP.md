@@ -29,14 +29,14 @@
   * [ ] `auth` hooks
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
-    * [ ] `multiserver`
+    * [ ] `multiserver` (needs tests)
     * [ ] `rpc`
     * [ ] `seeder`
     * [ ] `shelf`
     * [ ] `sqljocky`
     * [ ] `user_agent`
-    * [ ] `websocket`
-  * [ ] Some way to restart server on file change
+    * [ ] `websocket` (just need more tests)
+  * [ ] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [ ] Finish remaining documentation
   
 * 1.0.0
