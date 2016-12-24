@@ -44,7 +44,7 @@
   * [ ] Swagger codegen
   
 * Future
-  * [ ] `auth_twitter`
+  * [x] `auth_twitter`
   * [ ] `throttle`
   * [ ] `trestle`
   * ***Potentially*** base Angel off of shelf
