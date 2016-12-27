@@ -47,4 +47,5 @@
   * [x] `auth_twitter`
   * [ ] `throttle`
   * [ ] `trestle`
+  * [ ] Use code generators to remove dependency on reflection :)
   * ***Potentially*** base Angel off of shelf
