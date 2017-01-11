@@ -47,5 +47,9 @@
   * [ ] `throttle`
   * [ ] `trestle`
   * [ ] `user_agent`
-  * [ ] Use `source_transformer` to remove dependency on reflection :)
-  * [ ] Base Angel off of shelf
+  
+* 1.1.0
+  * [ ] Add shelf-based Angel class
+ 
+* 2.0.0
+  * [ ] Base entirely on `shelf`, remove dependency on `dart:io`
