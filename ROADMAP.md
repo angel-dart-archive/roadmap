@@ -26,15 +26,13 @@
     * [x] Add it to boilerplate
 
 * 1.0.0-beta
-  * [ ] `auth` hooks
+  * [ ] `security`
+  * [ ] `seeder`
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
     * [ ] `multiserver` (needs tests)
     * [ ] `rpc`
-    * [ ] `seeder`
     * [ ] `shelf`
-    * [ ] `sqljocky`
-    * [ ] `user_agent`
     * [ ] `websocket` (just need more tests)
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [ ] Finish remaining documentation
@@ -45,7 +43,9 @@
   
 * Future
   * [x] `auth_twitter`
+  * [ ] `sqljocky`
   * [ ] `throttle`
   * [ ] `trestle`
+  * [ ] `user_agent`
   * [ ] Use `source_transformer` to remove dependency on reflection :)
-  * ***Potentially*** base Angel off of shelf
+  * [ ] Base Angel off of shelf
