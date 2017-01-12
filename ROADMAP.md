@@ -25,7 +25,7 @@
   * [x] Create `common`
     * [x] Add it to boilerplate
 
-* 1.0.0-beta
+* 1.0.0
   * [ ] `security`
   * [ ] `seeder`
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
@@ -36,8 +36,6 @@
     * [ ] `websocket` (just need more tests)
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [ ] Finish remaining documentation
-  
-* 1.0.0
   * [ ] Finalize CLI
   * [ ] Swagger codegen
   
