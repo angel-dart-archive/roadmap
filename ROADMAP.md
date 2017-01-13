@@ -45,7 +45,7 @@
   * [ ] `throttle`
   * [ ] `trestle`
   * [ ] `user_agent`
-  * [ ] Profiling with [`fnx_profiler`](https://github.com/fnx-io/fnx_profiler)
+  * [x] Profiling with `fnx_profiler`
   
 * 1.1.0
   * [ ] Add shelf-based Angel class
