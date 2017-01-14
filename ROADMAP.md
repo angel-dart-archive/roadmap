@@ -44,7 +44,7 @@
   * [ ] `sqljocky`
   * [x] `throttle` - now in `security`
   * [ ] `trestle`
-  * [ ] `user_agent`
+  * [x] `user_agent`
   * [x] Profiling with `fnx_profiler`
   
 * 1.1.0
