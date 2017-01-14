@@ -32,7 +32,7 @@
   * [ ] Finish the following plugins:
     * [ ] `multiserver` (needs tests)
     * [ ] `rpc`
-    * [ ] `shelf`
+    * [x] `shelf`
     * [ ] `websocket` (just need more tests)
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [ ] Finish remaining documentation
@@ -42,7 +42,7 @@
 * Future
   * [x] `auth_twitter`
   * [ ] `sqljocky`
-  * [ ] `throttle`
+  * [x] `throttle` - now in `security`
   * [ ] `trestle`
   * [ ] `user_agent`
   * [x] Profiling with `fnx_profiler`
