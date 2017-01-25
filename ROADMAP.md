@@ -31,7 +31,6 @@
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [ ] Finish the following plugins:
     * [ ] `multiserver` (needs tests)
-    * [ ] `rpc`
     * [x] `shelf`
     * [ ] `websocket` (just need more tests)
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
