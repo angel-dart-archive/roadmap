@@ -32,22 +32,24 @@
   * [ ] Finish the following plugins:
     * [ ] `multiserver` (needs tests)
     * [x] `shelf`
-    * [ ] `websocket` (just need more tests)
+    * [x] `user_agent`
+    * [x] Profiling with `fnx_profiler`
+    * [x] `websocket`
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
-  * [ ] Finish remaining documentation
+  * [x] Finish remaining documentation
   * [ ] Finalize CLI
-  * [ ] Swagger codegen
   
 * Future
   * [x] `auth_twitter`
   * [ ] `sqljocky`
   * [x] `throttle` - now in `security`
   * [ ] `trestle`
-  * [x] `user_agent`
-  * [x] Profiling with `fnx_profiler`
+  * [ ] Swagger codegen
   
 * 1.1.0
-  * [ ] Add shelf-based Angel class
+  * [ ] [Universal Services](https://github.com/angel-dart/universal)
+  * [ ] [Asynchronous Jobs](https://github.com/angel-dart/task)
+  * [ ] IDE Plug-ins
  
 * 2.0.0
   * [ ] Base entirely on `shelf`, remove dependency on `dart:io`
