@@ -26,25 +26,27 @@
     * [x] Add it to boilerplate
 
 * 1.0.0
-  * [ ] `security`
-  * [ ] `seeder`
+  * [ ] `security` (few issues left)
+  * [x] `seeder`
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
-  * [ ] Finish the following plugins:
-    * [ ] `multiserver` (needs tests)
+  * [x] Finish the following plugins:
+    * [x] `multiserver`
     * [x] `shelf`
     * [x] `user_agent`
     * [x] Profiling with `fnx_profiler`
     * [x] `websocket`
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [x] Finish remaining documentation
-  * [ ] Finalize CLI
+  * [ ] Finalize CLI (few issues left)
   
 * Future
   * [x] `auth_twitter`
-  * [ ] `sqljocky`
+  * [ ] ~~`sqljocky`~~
   * [x] `throttle` - now in `security`
-  * [ ] `trestle`
+  * [ ] ~~`trestle`~~
   * [ ] Swagger codegen
+  * [ ] `admin`
+  * [ ] `helmet`
   
 * 1.1.0
   * [ ] [Universal Services](https://github.com/angel-dart/universal)
