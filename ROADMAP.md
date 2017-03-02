@@ -26,7 +26,7 @@
     * [x] Add it to boilerplate
 
 * 1.0.0
-  * [ ] `security` (few issues left)
+  * [x] `security`
   * [x] `seeder`
   * [x] [`contentType` on `ResponseContext`](https://github.com/angel-dart/framework/issues/31)
   * [x] Finish the following plugins:
@@ -37,7 +37,7 @@
     * [x] `websocket`
   * [x] [Some way to restart server on file change](https://github.com/angel-dart/cli/issues/12)
   * [x] Finish remaining documentation
-  * [ ] Finalize CLI (few issues left)
+  * [x] Finalize CLI
   
 * Future
   * [x] `auth_twitter`
