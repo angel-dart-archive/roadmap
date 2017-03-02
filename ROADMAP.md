@@ -50,7 +50,7 @@
   
 * 1.1.0
   * [ ] [Universal Services](https://github.com/angel-dart/universal)
-  * [ ] [Asynchronous Jobs](https://github.com/angel-dart/task)
+  * [x] [Asynchronous Jobs](https://github.com/angel-dart/task)
   * [ ] IDE Plug-ins
  
 * 2.0.0
