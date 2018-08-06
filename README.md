@@ -1,3 +1,8 @@
+# DEPRECATED
+Having a roadmap of features is more practical to have in the main repo itself, and could be better implemented as a Github project, which did not exist when this repo was created.
+
+This current repo has been stale for a long time, and might be misleading to people, as at the time of this writing, still indicates Angel as being in beta, when in reality it has been `1.0.0`+ since early 2017.
+
 # The Angel Framework
 
 [![version: v1.0.0-beta](https://img.shields.io/badge/pub-v1.0.0--beta-blue.svg)](https://pub.dartlang.org/packages/angel_common)
